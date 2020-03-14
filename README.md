@@ -26,4 +26,4 @@ Project Photos:
 
 <a href="https://github.com/taylorbarrett/boulder-map"><img src="https://github.com/taylorbarrett/boulder-map/raw/master/IMG_20200219_145718.jpg" width="100%" alt="pipemap"></a>
 
-<a href="https://github.com/taylorbarrett/boulder-map"><img src="https://github.com/taylorbarrett/boulder-map/raw/master/Screen%20Shot%202020-03-14%20at%209.54.52%20AM.png" width="100%" alt="pipemap"></a>
+<a href="https://github.com/taylorbarrett/boulder-map"><img src="https://github.com/taylorbarrett/boulder-map/raw/master/IMG_20200215_113111.jpg" width="100%" alt="pipemap"></a>
